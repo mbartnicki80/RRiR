@@ -1,2 +1,2 @@
 # RRiR
-Równania różniczkowe i różnicowe
+Rozwiązanie metodą elementów skończonych równania różniczkowego
